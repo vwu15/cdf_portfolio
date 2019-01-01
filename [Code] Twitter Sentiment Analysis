@@ -1,5 +1,7 @@
-# Twitter Sentiment Analysis Code
+# Twitter Sentiment Analysis 
+# Frontend and Backend Code Using Python
 
+# Code Description:
 # Creates a graphical user interface allowing the user to enter a search term or phrase
 # Searches Twitter for the first 200 tweets containing that term or phrase
 # Classifies those tweets as either positive, negative, or neutral
