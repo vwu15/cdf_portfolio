@@ -1,4 +1,7 @@
-# cdfportfolio
-Hello! This is my portfolio for my application for the Civic Digital Fellowship. All work has been accumulated within the past three years since I was a sophomore. I have put my heart and soul into very piece in this portfolio. I hope that comes across in the quality of my work. Thank you so much for your time and consideration!
+# Welcome to My Portfolio! 
 
-[http://www.binghamtonenactus.com/](http://www.binghamtonenactus.com/)
+My name is Vivian Wu. I am a senior majoring in Accounting with a concentration in Management Information Systems at Binghamton University, State University of New York. 
+
+This is my portfolio for the Civic Digital Fellowship Application 2019. I am applying to the Product Manager role. All work has been accumulated within the past three years since I was a sophomore. I have put my heart and soul into every piece in this portfolio. I hope that comes across in the quality of my work. 
+
+Thank you so much for your time and consideration!
