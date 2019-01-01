@@ -1,6 +1,6 @@
 # Welcome to My Portfolio! 
 
-![cat](https://github.com/vwu15/images/blob/master/Cat.png)
+![cat](https://github.com/vwu15/images/blob/master/cat.png)
 
 My name is Vivian Wu. I am a senior majoring in Accounting with a concentration in Management Information Systems at Binghamton University, State University of New York. 
 
