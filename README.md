@@ -4,18 +4,18 @@
 
 # Portfolio Directory:
 
-[1] 
+**1** [Code] Twitter Sentiment Analysis 
 
-[2]
+**2** [Flyer] Brain Drain Survey
 
-[3]
+**3** [Flyer] Data Design Challange
 
-[4]
+**4** [Infographic] Enactus Annual Report for Nationals 2018
 
-[5]
+**5** [Infographic] Many Hands Brochure for Project Launch Event
 
-[6]
+**6** [Powerpoint] Spirit Airlines Analysis
 
-[7]
+**7** [Website] Binghamton Enactus
 
-[8]
+**8** [Website] Generation Vote
