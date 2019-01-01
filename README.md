@@ -2,6 +2,7 @@
 
 ![shortbio](https://github.com/vwu15/images/blob/master/shortbio.png)
 Thank you so much for your time and consideration! If you have any questions or would like more specific details, please contact 
+
 # Portfolio Directory:
 
 [1] 
