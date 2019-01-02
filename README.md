@@ -6,9 +6,9 @@
 
 **1**   [[Code] Twitter Sentiment Analysis](https://github.com/vwu15/cdfportfolio/blob/master/%5BCode%5D%20Twitter%20Sentiment%20Analysis)
 
-**2**   [[Flyer + Guidelines] Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Data%20Design%20Challenge.pdf)
+**2**   [[Flyer+Guidelines] Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Data%20Design%20Challenge.pdf)
 
-**3**   [[Flyer + Survey] Brain Drain Research](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Brain%20Drain%20Research.pdf)
+**3**   [[Flyer+Survey] Brain Drain Research](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Brain%20Drain%20Research.pdf)
 
 **4**   [[Infographic] Enactus Annual Report for Nationals 2018](https://github.com/vwu15/cdfportfolio/blob/master/%5BInfographic%5D%20Enactus%20Annual%20Report%20for%20Nationals%202018.pdf)
 
