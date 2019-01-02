@@ -14,9 +14,9 @@
 
 **5**   [[Brochure] Raising Awareness for Food Insecurity](https://github.com/vwu15/cdfportfolio/blob/master/%5BInfographic%5D%20Many%20Hands%20Brochure%20for%20Project%20Launch%20Event.pdf)
 
-**6**   [[Powerpoint] Analyzing Spirit Airlines](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerpoint%5D%20Spirit%20Airlines%20Analysis.pdf)
+**6**   [[Powerpoint] Analyzing Spirit Airlines, Inc.](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerpoint%5D%20Spirit%20Airlines%20Analysis.pdf)
 
-**7**   [[Video] Introducing Binghamton UIF](https://youtu.be/CsJdmldAbB4)
+**7**   [[Video] Introducing Binghamton UIF Fellows](https://youtu.be/CsJdmldAbB4)
 
 **8**   [[Website] Promoting Binghamton Enactus](http://www.binghamtonenactus.com/)
 
