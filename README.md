@@ -18,7 +18,7 @@
 
 **3**   [[Code] Conducting Twitter Sentiment Analysis](https://github.com/vwu15/cdfportfolio/blob/master/%5BCode%5D%20Conducting%20Twitter%20Sentiment%20Analysis)
 
-- Blurb: This code allows the user to enter a term or phrase; searches Twitter for tweets containing that term or phrase; classifies those tweets as either positive, negative, or neutral; and returns the percentages of positive, negative, and neutral tweets to the user. The code was the result of my Twitter sentiment analysis research project for a Python programming class. 
+- Blurb: This code allows the user to enter a term or phrase; searches Twitter for tweets containing that term or phrase; classifies those tweets as either positive, negative, or neutral; and returns the percentages of positive, negative, and neutral tweets to the user. The code was a part of my Twitter sentiment analysis research project for a Python programming class. 
 - Contribution: As a programming enthusiast, I downloaded API packages, created a graphical user interface for an existing sentiment analysis code, and connected the frontend to the backend using Python.
 - Photo Caption: The term "Obama" is entered into the search and the sentiment analysis returns positive results to the user.
 
@@ -36,9 +36,9 @@
 
 **6**   [[Powerpoint] Analyzing Spirit Airlines, Inc.](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerpoint%5D%20Analyzing%20Spirit%20Airlines%2C%20Inc..pdf)
 
-- Blurb: This powerpoint 
-- Contribution: As an aspiring consultant, I researched various firm strategies and proposed a set of recommendations to complement and enhance Spirit Airlines' core competencies. I also created a master slide and customized each slide with my original designs.
-- Photo Caption: 
+- Blurb: This powerpoint explores the success of low-cost carriers in the U.S. airline industry and particularly takes a closer look at Spirit Airlines. The powerpoint was a group assignment for my Global Strategic Management capstone course.  
+- Contribution: As an aspiring consultant, I researched various firm strategies and proposed a set of recommendations to complement and enhance Spirit's core competencies. I also created a master slide and customized each slide with my original designs.
+- Photo Caption: This title slide is created entirely using Microsoft Powerpoint.
 
 **7**   [[Video] Introducing Binghamton UIF](https://youtu.be/CsJdmldAbB4)
 
