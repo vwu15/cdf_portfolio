@@ -22,7 +22,7 @@
 - Contribution: As a programming enthusiast, I downloaded API packages, created a graphical user interface for an existing sentiment analysis code, and connected the frontend to the backend using Python.
 - Photo Caption: The term "Obama" is entered into the search and the sentiment analysis returns positive results to the user.
 
-**4**   [[Flyer + Guidelines] Organizing Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Organzing%20Data%20Design%20Challenge.pdf)
+**4**   [[Flyer + Guidelines] Organizing Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Organizing%20Data%20Design%20Challenge.pdf)
 
 - Blurb: This challenge asks participants to design a Twitter sentiment analysis to evaluate tweets about the midterm elections. Although no coding is necessary, bonus points are awarded if participants can demonstrate the steps to create the actual program. The challenge was a part of the Binghamton UIF initiative to innovate higher education by discussing relevant topics in data science.
 - Contribution: As a UIF Fellow, I collaborated with student groups and three other fellows to plan, market, and execute the event. 
