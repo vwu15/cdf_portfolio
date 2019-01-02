@@ -10,9 +10,9 @@
 
 **3**   [[Flyer + Survey] Researching Brain Drain](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Brain%20Drain%20Research.pdf)
 
-**4**   [[Infographic] Annual Report to Summarize Projects](https://github.com/vwu15/cdfportfolio/blob/master/%5BInfographic%5D%20Enactus%20Annual%20Report%20for%20Nationals%202018.pdf)
+**4**   [[Annual Report] Summarizing Social Impact Projects](https://github.com/vwu15/cdfportfolio/blob/master/%5BInfographic%5D%20Enactus%20Annual%20Report%20for%20Nationals%202018.pdf)
 
-**5**   [[Infographic] Brochure to Raise Awareness](https://github.com/vwu15/cdfportfolio/blob/master/%5BInfographic%5D%20Many%20Hands%20Brochure%20for%20Project%20Launch%20Event.pdf)
+**5**   [[Brochure] Raising Awareness for Food Insecurity](https://github.com/vwu15/cdfportfolio/blob/master/%5BInfographic%5D%20Many%20Hands%20Brochure%20for%20Project%20Launch%20Event.pdf)
 
 **6**   [[Powerpoint] Analyzing Spirit Airlines](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerpoint%5D%20Spirit%20Airlines%20Analysis.pdf)
 
