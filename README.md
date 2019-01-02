@@ -30,7 +30,7 @@
 
 **5**   [[Flyer + Survey] Researching Countywide Brain Drain](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Researching%20Countywide%20Brain%20Drain.pdf)
 
-- Blurb: This survey examines the Broome County brain drain, or high emigration of college graduates leaving the local area, by uncovering primary causes and evaluating potential solutions for the issue. It also assesses demand for a countywide entrepreneurship grant program. The survey was distributed to college students residing in Broome County.
+- Blurb: This survey examines the Broome County brain drain, or high emigration of college graduates leaving the local area, by uncovering primary causes and evaluating potential solutions for the issue. It also assesses demand for a countywide entrepreneurship grant program, which is a student-generated economic development policy. The survey was distributed to college students residing in Broome County.
 - Contribution: As the research analyst, I developed the questions, implemented data collection, and analyzed the results.
 - Photo Caption: Survey results indicate that 81.04% of the 667 participants are interested in a local entrepreneurship grant program.
 
