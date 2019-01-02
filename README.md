@@ -8,7 +8,7 @@
 
 - Blurb: This document showcases Binghamton Enactus' social impact projects and their respective metrics for each of the three project phases: (1) "Need", (2) "Action", and (3) "Impact." The document was presented to a panel of judges comprised of business leaders at the Enactus National Competition 2018.  
 - Contribution: As the President/CEO, I developed the metrics and managed the design and production of the annual report. 
-- Photo Caption: The Binghamton Enactus team comes together for a weekly General Body meeting to provide peer support and project feedback.
+- Photo Caption: The Binghamton Enactus team comes together for a General Body meeting to provide peer support and project feedback.
 
 **2**   [[Brochure] Raising Awareness of Food Insecurity](https://github.com/vwu15/cdfportfolio/blob/master/%5BBrochure%5D%20Raising%20Awareness%20of%20Food%20Insecurity.pdf)
 
@@ -18,9 +18,9 @@
 
 **3**   [[Code] Conducting Twitter Sentiment Analysis](https://github.com/vwu15/cdfportfolio/blob/master/%5BCode%5D%20Conducting%20Twitter%20Sentiment%20Analysis)
 
-- Blurb: 
-- Contribution: 
-- Photo Caption:
+- Blurb: This code allows the user to enter a term or phrase; searches Twitter for tweets containing that term or phrase; classifies those tweets as either positive, negative, or neutral; and returns the percentages of positive, negative, and neutral tweets to the user. The code was the result of my Twitter sentiment analysis research project for a Python programming class. 
+- Contribution: As a programmer, I downloaded API packages, created a graphical user interface for an existing sentiment analysis code, and connected the frontend to the backend using Python.
+- Photo Caption: The term "Obama" is entered into the search and the sentimemt analysis returns positive results to the user.
 
 **4**   [[Flyer + Guidelines] Organzing Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Organzing%20Data%20Design%20Challenge.pdf)
 
