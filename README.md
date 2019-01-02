@@ -25,7 +25,7 @@
 **4**   [[Flyer + Guidelines] Organizing Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Organizing%20Data%20Design%20Challenge.pdf)
 
 - Blurb: This challenge asks participants to design a Twitter sentiment analysis to evaluate tweets about the midterm elections. Although no coding is necessary, bonus points are awarded if participants can demonstrate the steps to create the actual program. The challenge was a part of the Binghamton UIF initiative to innovate higher education by discussing relevant topics in data science.
-- Contribution: As a UIF Fellow, I collaborated with student groups and three other fellows to plan, market, and execute the event. 
+- Contribution: As a UIF Fellow, I collaborated with other fellows and student groups on the planning, marketing, and execution of the event. 
 - Photo Caption: Each winner receives a certificate designed by UIF Fellow Vivian Wu and Office of Entrepreneurship and Innovation Partnerships' Marketing Strategist Cory Kimmell.
 
 **5**   [[Flyer + Survey] Researching Countywide Brain Drain](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Researching%20Countywide%20Brain%20Drain.pdf)
@@ -36,9 +36,9 @@
 
 **6**   [[Powerpoint] Analyzing Spirit Airlines, Inc.](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerpoint%5D%20Analyzing%20Spirit%20Airlines%2C%20Inc..pdf)
 
-- Blurb: 
-- Contribution: 
-- Photo Caption:
+- Blurb: This powerpoint 
+- Contribution: As an aspiring consultant, I researched various firm strategies and proposed a set of recommendations to complement and enhance Spirit Airlines' core competencies. I also created a master slide and customized each slide with my original designs.
+- Photo Caption: 
 
 **7**   [[Video] Introducing Binghamton UIF](https://youtu.be/CsJdmldAbB4)
 
