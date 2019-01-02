@@ -6,9 +6,9 @@
 
 **1**   [[Annual Report] Tracking Metrics for Projects](https://github.com/vwu15/cdfportfolio/blob/master/%5BAnnual%20Report%5D%20Tracking%20Metrics%20for%20Projects.pdf)
 
-- Blurb: 
-- Contribution: 
-- Photo Caption:
+- Blurb: This document showcases Binghamton Enactus' social impact projects and their respective metrics for each of the three project phases: (1) "Need", (2) "Action", and (3) "Impact." The document was presented to a panel of judges comprised of business leaders at the Enactus National Competition 2018.  
+- Contribution: As the President/CEO, I managed the design and production of the annual report. 
+- Photo Caption: The Binghamton Enactus team comes together for the weekly meeting to provide peer support and project feedback.
 
 **2**   [[Brochure] Raising Awareness of Food Insecurity](https://github.com/vwu15/cdfportfolio/blob/master/%5BBrochure%5D%20Raising%20Awareness%20of%20Food%20Insecurity.pdf)
 
