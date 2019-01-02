@@ -24,14 +24,14 @@
 
 **4**   [[Flyer + Guidelines] Organizing Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Organizing%20Data%20Design%20Challenge.pdf)
 
-- Blurb: This challenge asks participants to design a Twitter sentiment analysis to evaluate tweets about the midterm elections. Although no coding is necessary, bonus points are awarded if participants can demonstrate the steps to create the actual program. The challenge was a part of the Binghamton UIF initiative to innovate higher education by discussing relevant topics in data science.
+- Blurb: This challenge asks participants to design a Twitter sentiment analysis to evaluate tweets about the midterm elections. Although no coding is necessary, bonus points are awarded if participants can demonstrate the steps to create the actual program. The challenge was a part of the Binghamton UIF initiative to innovate higher education by encouraging students to explore fields in data science.
 - Contribution: As a UIF Fellow, I collaborated with other fellows and student groups on the planning, marketing, and execution of the event. 
 - Photo Caption: Each winner receives a certificate designed by UIF Fellow Vivian Wu and Office of Entrepreneurship and Innovation Partnerships' Marketing Strategist Cory Kimmell.
 
 **5**   [[Flyer + Survey] Researching Countywide Brain Drain](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Researching%20Countywide%20Brain%20Drain.pdf)
 
 - Blurb: This survey examines the Broome County brain drain, or high emigration of college graduates leaving the local area, by uncovering primary causes and evaluating potential solutions for the issue. It also assesses demand for a countywide entrepreneurship grant program, which is a student-generated economic development policy. The survey was distributed to college students residing in Broome County.
-- Contribution: As the research analyst, I developed the survey, implemented the data collection, and analyzed the results.
+- Contribution: As a research analyst, I developed the survey, implemented data collection, and analyzed the results.
 - Photo Caption: Survey results indicate that 81.04% of the 667 participants are interested in a local entrepreneurship grant program.
 
 **6**   [[Powerpoint] Analyzing Spirit Airlines, Inc.](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerpoint%5D%20Analyzing%20Spirit%20Airlines%2C%20Inc..pdf)
