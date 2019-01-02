@@ -8,7 +8,7 @@
 
 **2**   [[Flyer] Brain Drain Survey](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%5D%20Brain%20Drain%20Survey.pdf)
 
-**3**   [[Flyer] Data Design Challange](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%5D%20Data%20Design%20Challange.pdf)
+**3**   [[Flyer + Guidelines] Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Data%20Design%20Challenge.pdf)
 
 **4**   [[Infographic] Enactus Annual Report for Nationals 2018](https://github.com/vwu15/cdfportfolio/blob/master/%5BInfographic%5D%20Enactus%20Annual%20Report%20for%20Nationals%202018.pdf)
 
