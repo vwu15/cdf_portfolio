@@ -10,9 +10,7 @@
 
 **2**   [[Brochure] Raising Awareness of Food Insecurity](https://github.com/vwu15/cdfportfolio/blob/master/%5BBrochure%5D%20Raising%20Awareness%20of%20Food%20Insecurity.pdf)
 
-Blurb: This document explains the local issue of food insecurity in the North Side of Binghamton, proposes the Many Hands Food Cooperative as a sustainable solution, and provides ways to get involved. It also contains the event agenda and biographies of the speakers. The document was distributed at the Many Hands Against Hunger Event, which was the project launch event for the cooperative.
-Contribution: As a member of the Board of Directors and Steering Committee, I drafted the contents and supervised the design and production of the brochure. 
-Photo Caption: Students and community residents gather at a Steering Committee meeting to discuss initiatives for the cooperative. 
+![brochure](https://github.com/vwu15/cdfportfolioimages/blob/master/brochure.png) 
 
 **3**   [[Code] Conducting Twitter Sentiment Analysis](https://github.com/vwu15/cdfportfolio/blob/master/%5BCode%5D%20Conducting%20Twitter%20Sentiment%20Analysis)
 
