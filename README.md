@@ -18,7 +18,7 @@
 
 **4**   [[Flyer + Guidelines] Organizing Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Organizing%20Data%20Design%20Challenge.pdf)
 
-![flyer+guidelinesupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/flyer%2Bguidelinesupdated.png) 
+![flyer+guidelinesupdated2](https://github.com/vwu15/cdfportfolioimages/blob/master/flyer%2Bguidelinesupdated2.png) 
 
 **5**   [[Flyer + Survey] Researching Countywide Brain Drain](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Researching%20Countywide%20Brain%20Drain.pdf)
 
@@ -26,7 +26,7 @@
 
 **6**   [[PowerPoint] Analyzing Spirit Airlines, Inc.](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerPoint%5D%20Spirit%20Airlines%20Analysis.pdf)
 
-![powerpoint](https://github.com/vwu15/cdfportfolioimages/blob/master/powerpoint.png) 
+![powerpointupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/powerpointupdated.png) 
 
 **7**   [[Video] Introducing Binghamton UIF](https://youtu.be/CsJdmldAbB4)
 
@@ -34,7 +34,7 @@
 
 **8**   [[Website] Marketing Generation Vote](https://www.genvote.org/)
 
-![websitegv](https://github.com/vwu15/cdfportfolioimages/blob/master/websitegv.png)
+![websitegvupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/websitegvupdated.png)
 
 **9**   [[Website] Promoting Binghamton Enactus](http://www.binghamtonenactus.com/)
 
