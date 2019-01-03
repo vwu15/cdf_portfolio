@@ -38,6 +38,4 @@
 
 **9**   [[Website] Promoting Binghamton Enactus](http://www.binghamtonenactus.com/)
 
-- Blurb: 
-- Contribution: 
-- Photo Caption:
+![websitebe](https://github.com/vwu15/cdfportfolioimages/blob/master/websitebe.png)
