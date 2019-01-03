@@ -18,9 +18,7 @@
 
 **4**   [[Flyer + Guidelines] Organizing Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Organizing%20Data%20Design%20Challenge.pdf)
 
-Blurb: This challenge asks participants to design a Twitter sentiment analysis to evaluate tweets about the midterm elections. Although no coding is necessary, bonus points are awarded if participants can demonstrate the steps to create the actual program. The challenge was a part of the Binghamton UIF initiative to innovate higher education by encouraging students to explore fields in data science.
-Contribution: As a UIF Fellow, I collaborated with other fellows and student groups on the planning, marketing, and execution of the event. 
-Photo Caption: Each winner receives a certificate designed by UIF Fellow Vivian Wu and Office of Entrepreneurship and Innovation Partnerships' Marketing Strategist Cory Kimmell.
+![flyer+guidelines](https://github.com/vwu15/cdfportfolioimages/blob/master/flyer%2Bguidelines.png) 
 
 **5**   [[Flyer + Survey] Researching Countywide Brain Drain](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Researching%20Countywide%20Brain%20Drain.pdf)
 
