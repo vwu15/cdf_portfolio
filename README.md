@@ -14,9 +14,7 @@
 
 **3**   [[Code] Conducting Twitter Sentiment Analysis](https://github.com/vwu15/cdfportfolio/blob/master/%5BCode%5D%20Conducting%20Twitter%20Sentiment%20Analysis)
 
-Blurb: This code allows the user to enter a term or phrase; searches Twitter for tweets containing that term or phrase; classifies those tweets as either positive, negative, or neutral; and returns the percentages of positive, negative, and neutral tweets to the user. The code was a part of my Twitter sentiment analysis research project for a Python programming class. 
-Contribution: As a programming enthusiast, I downloaded API packages, created a graphical user interface for an existing sentiment analysis code, and connected the frontend to the backend using Python.
-Photo Caption: The term "Obama" is entered into the search and the sentiment analysis returns positive results to the user.
+![code](https://github.com/vwu15/cdfportfolioimages/blob/master/code.png) 
 
 **4**   [[Flyer + Guidelines] Organizing Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Organizing%20Data%20Design%20Challenge.pdf)
 
