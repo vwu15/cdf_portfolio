@@ -26,9 +26,7 @@
 
 **6**   [[Powerpoint] Analyzing Spirit Airlines, Inc.](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerpoint%5D%20Analyzing%20Spirit%20Airlines%2C%20Inc..pdf)
 
-Blurb: This powerpoint explores the success of low-cost carriers in the U.S. airline industry and particularly takes a closer look at Spirit Airlines. The powerpoint was a group assignment for my Global Strategic Management capstone course.  
-Contribution: As an aspiring consultant, I researched various firm strategies and proposed a set of recommendations to complement and enhance Spirit's core competencies. I also created a master slide and customized each slide with my original designs.
-Photo Caption: This title slide is created entirely using Microsoft Powerpoint.
+![powerpoint](https://github.com/vwu15/cdfportfolioimages/blob/master/powerpoint.png) 
 
 **7**   [[Video] Introducing Binghamton UIF](https://youtu.be/CsJdmldAbB4)
 
