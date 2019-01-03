@@ -6,7 +6,7 @@
 
 **1**   [[Annual Report] Tracking Metrics for Projects](https://github.com/vwu15/cdfportfolio/blob/master/%5BAnnual%20Report%5D%20Tracking%20Metrics%20for%20Projects.pdf)
 
-![annualreport](https://github.com/vwu15/cdfportfolioimages/blob/master/1%20%5BAnnual%20Report%5D.png)
+![annualreport](https://github.com/vwu15/cdfportfolioimages/blob/master/annualreport.png)
 
 **2**   [[Brochure] Raising Awareness of Food Insecurity](https://github.com/vwu15/cdfportfolio/blob/master/%5BBrochure%5D%20Raising%20Awareness%20of%20Food%20Insecurity.pdf)
 
