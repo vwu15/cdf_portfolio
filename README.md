@@ -36,9 +36,7 @@
 
 **8**   [[Website] Marketing Generation Vote](https://www.genvote.org/)
 
-- Blurb: 
-- Contribution: 
-- Photo Caption:
+![websitegv](https://github.com/vwu15/cdfportfolioimages/blob/master/websitegv.png)
 
 **9**   [[Website] Promoting Binghamton Enactus](http://www.binghamtonenactus.com/)
 
