@@ -30,9 +30,7 @@
 
 **7**   [[Video] Introducing Binghamton UIF](https://youtu.be/CsJdmldAbB4)
 
-- Blurb: 
-- Contribution: 
-- Photo Caption:
+![video](https://github.com/vwu15/cdfportfolioimages/blob/master/video.png) 
 
 **8**   [[Website] Marketing Generation Vote](https://www.genvote.org/)
 
