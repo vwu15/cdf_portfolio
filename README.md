@@ -18,7 +18,7 @@
 
 **4**   [[Flyer + Guidelines] Organizing Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Organizing%20Data%20Design%20Challenge.pdf)
 
-![flyer+guidelinesupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/flyer%2Bguidelinesupdated.png) 
+![flyer+guidelinesedited](https://github.com/vwu15/cdfportfolioimages/blob/master/flyer%2Bguidelinesedited.png) 
 
 **5**   [[Flyer + Survey] Researching Countywide Brain Drain](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Researching%20Countywide%20Brain%20Drain.pdf)
 
