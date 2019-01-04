@@ -14,7 +14,7 @@
 
 **3**   [[Code] Conducting Twitter Sentiment Analysis](https://github.com/vwu15/cdfportfolio/blob/master/%5BCode%5D%20Conducting%20Twitter%20Sentiment%20Analysis)
 
-![code](https://github.com/vwu15/cdfportfolioimages/blob/master/code.png) 
+![codeupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/codeupdated.png) 
 
 **4**   [[Flyer + Guidelines] Organizing Data Design Challenge](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Guidelines%5D%20Organizing%20Data%20Design%20Challenge.pdf)
 
