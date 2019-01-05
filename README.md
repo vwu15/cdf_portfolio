@@ -24,7 +24,7 @@
 
 ![flyer+surveyupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/flyer%2Bsurveyupdated.png) 
 
-**6**   [[PowerPoint] Analyzing Spirit Airlines](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerPoint%5D%20Analyzing%20Spirit%20Airlines%2C%20Inc..pdf)
+**6**   [[PowerPoint] Analyzing Spirit Airlines](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerPoint%5D%20Analyzing%20Spirit%20Airlines.pdf)
 
 ![powerpointupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/powerpointupdated.png) 
 
