@@ -1,16 +1,16 @@
 # Welcome to My Portfolio! 
 
-![shortbioupdated](https://github.com/vwu15/images/blob/master/shortbioupdated.png)
+![shortbioupdated2](https://github.com/vwu15/images/blob/master/shortbioupdated2.png)
 
 # Portfolio Directory:
 
 **1**   [[Annual Report] Tracking Metrics for Projects](https://github.com/vwu15/cdfportfolio/blob/master/%5BAnnual%20Report%5D%20Tracking%20Metrics%20for%20Projects.pdf)
 
-![annualreport](https://github.com/vwu15/cdfportfolioimages/blob/master/annualreport.png)
+![annualreportupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/annualreportupdated.png)
 
 **2**   [[Brochure] Raising Awareness of Food Insecurity](https://github.com/vwu15/cdfportfolio/blob/master/%5BBrochure%5D%20Raising%20Awareness%20of%20Food%20Insecurity.pdf)
 
-![brochure](https://github.com/vwu15/cdfportfolioimages/blob/master/brochure.png) 
+![brochureupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/brochureupdated.png) 
 
 **3**   [[Code] Conducting Twitter Sentiment Analysis](https://github.com/vwu15/cdfportfolio/blob/master/%5BCode%5D%20Conducting%20Twitter%20Sentiment%20Analysis)
 
@@ -22,15 +22,15 @@
 
 **5**   [[Flyer + Survey] Researching Countywide Brain Drain](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Researching%20Countywide%20Brain%20Drain.pdf)
 
-![flyer+survey](https://github.com/vwu15/cdfportfolioimages/blob/master/flyer%2Bsurvey.png) 
+![flyer+surveyupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/flyer%2Bsurveyupdated.png) 
 
-**6**   [[PowerPoint] Analyzing Spirit Airlines, Inc.](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerPoint%5D%20Analyzing%20Spirit%20Airlines%2C%20Inc..pdf)
+**6**   [[PowerPoint] Analyzing Spirit Airlines](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerPoint%5D%20Analyzing%20Spirit%20Airlines%2C%20Inc..pdf)
 
 ![powerpointupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/powerpointupdated.png) 
 
 **7**   [[Video] Introducing Binghamton UIF](https://youtu.be/CsJdmldAbB4)
 
-![videoupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/videoupdated.png) 
+![videoupdated2](https://github.com/vwu15/cdfportfolioimages/blob/master/videoupdated2.png) 
 
 **8**   [[Website] Marketing Generation Vote](https://www.genvote.org/)
 
