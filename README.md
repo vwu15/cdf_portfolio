@@ -38,4 +38,4 @@
 
 **9**   [[Website] Promoting Binghamton Enactus](http://www.binghamtonenactus.com/)
 
-![websitebeupdated](https://github.com/vwu15/cdfportfolioimages/blob/master/websitebeupdated.png)
+![websitebeupdated2](https://github.com/vwu15/cdfportfolioimages/blob/master/websitebeupdated2.png)
