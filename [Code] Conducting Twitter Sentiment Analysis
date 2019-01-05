@@ -77,7 +77,7 @@ class TwitterClient(object):
 
             # parsing tweets one by one
             for tweet in fetched_tweets:
-                # empty dictionary to store required params of a tweet
+                # empty dictionary to store required parameters of a tweet
                 parsed_tweet = {}
 
                 # saving text of tweet
@@ -107,7 +107,7 @@ class Calculator:
     def __init__(self, API):
         # Create main window widget
         self.main_window = tkinter.Tk()
-        # Give ourself access to the Twitter API class inside the calculator window
+        # Provide access to the Twitter API class inside the calculator window
         self.API = API
 
         # Create two frames to group widgets
