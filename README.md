@@ -22,7 +22,7 @@
 
 **5**   [[Flyer + Survey] Researching Countywide Brain Drain](https://github.com/vwu15/cdfportfolio/blob/master/%5BFlyer%20%2B%20Survey%5D%20Researching%20Countywide%20Brain%20Drain.pdf)
 
-![flyer+surveyupdated3](https://github.com/vwu15/cdfportfolioimages/blob/master/flyer%2Bsurveyupdated3.png) 
+![flyer+surveyupdated4](https://github.com/vwu15/cdfportfolioimages/blob/master/flyer%2Bsurveyupdated4.png) 
 
 **6**   [[PowerPoint] Analyzing Spirit Airlines](https://github.com/vwu15/cdfportfolio/blob/master/%5BPowerPoint%5D%20Analyzing%20Spirit%20Airlines.pdf)
 
