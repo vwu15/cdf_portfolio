@@ -1,6 +1,6 @@
 # Welcome to My Portfolio! 
 
-![shortbioupdated2](https://github.com/vwu15/images/blob/master/shortbioupdated2.png)
+![shortbioupdated3](https://github.com/vwu15/images/blob/master/shortbioupdated3.png)
 
 # Portfolio Directory:
 
